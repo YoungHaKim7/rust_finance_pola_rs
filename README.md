@@ -27,6 +27,8 @@
 
 <img src="https://camo.githubusercontent.com/46148d948a6b0364d9dcf48c64b9f21cbdd0a4e5550dfd8b24b317fef881eaf9/68747470733a2f2f726f6170692e6769746875622e696f2f646f63732f696d616765732f726f6170692e706e67" />
 
+![Screenshot 2024-03-30 at 12 15 13 AM](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/25ad116b-51c5-42db-b9a9-46244324982c)
+
 <hr>
 
 # rust_finance_pola_rs
