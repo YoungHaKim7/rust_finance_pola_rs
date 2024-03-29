@@ -29,6 +29,9 @@
 
 ![Screenshot 2024-03-30 at 12 15 13 AM](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/25ad116b-51c5-42db-b9a9-46244324982c)
 
+- Delta-rs, Apache Arrow, Polars, WASM: Is Rust the Future of Analytics? | Databricks
+  - https://youtu.be/VedepVXiql4?si=nx5eVcgWy7m1_jvd
+
 <hr>
 
 # rust_finance_pola_rs
