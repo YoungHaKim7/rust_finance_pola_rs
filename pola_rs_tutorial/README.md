@@ -6,6 +6,8 @@
   - https://github.com/sd2k/grafana-sample-backend-plugin-rust/
 - Polars https://pola.rs/
 
+- Sound Data Engineering in Rust—From Bits to DataFrames | Databricks
+  - https://youtu.be/Ybz0db1Vj6c?si=Q8dbj1x2mM0oF7fy
 
 
 <hr>
