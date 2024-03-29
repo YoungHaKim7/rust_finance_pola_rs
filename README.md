@@ -4,6 +4,31 @@
 
 <hr>
 
+# Rust's data ecosystem
+
+- ndarray
+  - https://github.com/rust-ndarray/ndarray
+- tikv
+  - https://github.com/tikv/tikv 
+- Roapi
+  - https://github.com/roapi/roapi
+- Burn
+  - https://github.com/tracel-ai/burn
+- Databend
+  - https://docs.databend.com/guides
+- Materialize
+  - https://materialize.com/
+- Graphana SDK
+  - https://github.com/grafana/grafana-plugin-sdk-rust
+    - https://github.com/sd2k/grafana-sample-backend-plugin-rust/
+- Polars
+  - https://pola.rs/
+
+
+<img src="https://camo.githubusercontent.com/46148d948a6b0364d9dcf48c64b9f21cbdd0a4e5550dfd8b24b317fef881eaf9/68747470733a2f2f726f6170692e6769746875622e696f2f646f63732f696d616765732f726f6170692e706e67" />
+
+<hr>
+
 # rust_finance_pola_rs
 
 
