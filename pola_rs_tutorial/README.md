@@ -1,3 +1,16 @@
+# Who uses arrow2
+
+- https://docs.databend.com/guides
+- Materialize https://materialize.com/
+- Graphana SDK https://github.com/grafana/grafana-plugin-sdk-rust
+  - https://github.com/sd2k/grafana-sample-backend-plugin-rust/
+- Polars https://pola.rs/
+
+
+
+<hr>
+
+
 # https://pola.rs/
 
 - https://docs.pola.rs/user-guide/getting-started/#installing-polars
