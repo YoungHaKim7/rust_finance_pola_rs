@@ -14,6 +14,8 @@
 
 https://matplotlib.org/stable/tutorials/pyplot.html
 
+- https://matplotlib.org/stable/users/explain/quick_start.html#
+
 <hr>
 
 # 인터넷으로 파이썬 쥬피터노트북 해보기 (신기하네 ㅋ)
