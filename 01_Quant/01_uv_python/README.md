@@ -1,3 +1,18 @@
+# .gitignore
+```
+# A collection of useful .gitignore templates 
+# https://github.com/github/gitignore
+# General
+.DS_Store
+dir/otherdir/.DS_Store
+.venv/
+
+```
+
+<br>
+
+<hr>
+
 # Next-gen Python tooling
 
 https://astral.sh/
@@ -5,6 +20,10 @@ https://astral.sh/
 # matplotlib
 
 - https://matplotlib.org/stable/tutorials/pyplot.html 
+
+# ruff(python fmt, check)
+
+- https://github.com/astral-sh/ruff
 
 # conda대체 - GN⁺: Uv - 러스트로 구현한 초고속 파이썬 패키징 도구 (astral.sh)
 
