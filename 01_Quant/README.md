@@ -13,6 +13,10 @@
 
 - https://junia3.github.io/blog/latex_symbols
 
+# matplotlib tutorial
+
+https://matplotlib.org/stable/tutorials/pyplot.html
+
 <hr>
 
 # 인터넷으로 파이썬 쥬피터노트북 해보기 (신기하네 ㅋ)
