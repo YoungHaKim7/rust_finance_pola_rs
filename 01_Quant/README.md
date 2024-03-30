@@ -6,9 +6,6 @@
 
 # Rust Quant(Rust Finance)
 
-- 여기에 정리중
-  - https://github.com/YoungHaKim7/rust_finance_pola_rs
-
 # Latex 문법
 
 - https://junia3.github.io/blog/latex_symbols
