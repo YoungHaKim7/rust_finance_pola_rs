@@ -13,6 +13,17 @@ dir/otherdir/.DS_Store
 
 <hr>
 
+
+# How to leave/exit/deactivate a Python virtualenv
+
+- https://stackoverflow.com/questions/990754/how-to-leave-exit-deactivate-a-python-virtualenv
+
+- https://matplotlib.org/3.5.0/devel/development_setup.html#installing-for-devs
+
+
+
+<hr>
+
 # Next-gen Python tooling
 
 https://astral.sh/
