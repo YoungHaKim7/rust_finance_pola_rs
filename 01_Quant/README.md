@@ -41,6 +41,13 @@ modified      /home/gy/.config/fish/config.fish
 
 - https://stackoverflow.com/questions/34280113/add-conda-to-path-in-fish
 
+- 자동으로 conda활성화 되는거 false로 만들기 (귀찮네)
+```bash
+conda config --set auto_activate_base false
+
+```
+
+
 <hr>
 
 # 인터넷으로 파이썬 쥬피터노트북 해보기 (신기하네 ㅋ)
