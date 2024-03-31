@@ -18,6 +18,31 @@ https://matplotlib.org/stable/tutorials/pyplot.html
 
 <hr>
 
+# Linux에 Anaconda 설치하고 fishshell에 적용하기
+
+- `conda init fish`
+```bash
+conda init fish                                                                                             0 (0.004s)
+no change     /home/gy/anaconda3/condabin/conda
+no change     /home/gy/anaconda3/bin/conda
+no change     /home/gy/anaconda3/bin/conda-env
+no change     /home/gy/anaconda3/bin/activate
+no change     /home/gy/anaconda3/bin/deactivate
+no change     /home/gy/anaconda3/etc/profile.d/conda.sh
+no change     /home/gy/anaconda3/etc/fish/conf.d/conda.fish
+no change     /home/gy/anaconda3/shell/condabin/Conda.psm1
+no change     /home/gy/anaconda3/shell/condabin/conda-hook.ps1
+no change     /home/gy/anaconda3/lib/python3.11/site-packages/xontrib/conda.xsh
+no change     /home/gy/anaconda3/etc/profile.d/conda.csh
+modified      /home/gy/.config/fish/config.fish
+
+==> For changes to take effect, close and re-open your current shell. <==
+```
+
+- https://stackoverflow.com/questions/34280113/add-conda-to-path-in-fish
+
+<hr>
+
 # 인터넷으로 파이썬 쥬피터노트북 해보기 (신기하네 ㅋ)
 - https://jupyterlite.github.io/demo/lab/index.html
 
