@@ -66,6 +66,9 @@ conda config --set auto_activate_base false
 ```bash
 pip install --upgrade pip
 
+# python3 업데이트
+pip3 install --upgrade pip
+
 python -m pip install --user --upgrade pip
 ```
 
