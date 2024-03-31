@@ -18,6 +18,16 @@ https://matplotlib.org/stable/tutorials/pyplot.html
 
 <hr>
 
+# conda 활성화/비활성화
+
+```
+# 처음에 프로젝트 폴더에 활성화 하고 싶을때
+conda activate
+
+# 프로젝트 끝나고 폴더에 활성화 하고 싶을때
+conda deactivate  
+```
+
 # Linux에 Anaconda 설치하고 fishshell에 적용하기
 
 - `conda init fish`
