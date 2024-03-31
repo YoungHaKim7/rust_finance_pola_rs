@@ -69,6 +69,8 @@ pip install --upgrade pip
 python -m pip install --user --upgrade pip
 ```
 
+- https://stackoverflow.com/questions/70622936/how-to-use-upgraded-pip-from-site-packages
+
 <hr>
 
 # 인터넷으로 파이썬 쥬피터노트북 해보기 (신기하네 ㅋ)
