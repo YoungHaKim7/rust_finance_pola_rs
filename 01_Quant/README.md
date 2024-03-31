@@ -48,6 +48,9 @@ conda config --set auto_activate_base false
 ```
 
 
+- `anaconda/bin` PATH잡아주기
+  - https://m31phy.tistory.com/16
+
 <hr>
 
 # 인터넷으로 파이썬 쥬피터노트북 해보기 (신기하네 ㅋ)
