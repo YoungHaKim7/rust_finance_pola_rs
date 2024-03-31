@@ -72,6 +72,8 @@ pip3 install --upgrade pip
 python -m pip install --user --upgrade pip
 ```
 
+- https://www.geeksforgeeks.org/python-pip/
+
 - https://stackoverflow.com/questions/70622936/how-to-use-upgraded-pip-from-site-packages
 
 <hr>
