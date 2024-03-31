@@ -61,6 +61,14 @@ conda config --set auto_activate_base false
 - `anaconda/bin` PATH잡아주기
   - https://m31phy.tistory.com/16
 
+# 파이썬 패키지 관리 프로그램 최신 업데이트
+
+```bash
+pip install --upgrade pip
+
+python -m pip install --user --upgrade pip
+```
+
 <hr>
 
 # 인터넷으로 파이썬 쥬피터노트북 해보기 (신기하네 ㅋ)
