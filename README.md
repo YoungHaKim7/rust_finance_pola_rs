@@ -4,7 +4,7 @@
 
 # link
 
-- [#rust러스트fishshell용-echo로-gitignore넣기](#rustfishshell용-echo로-gitignore넣기)
+- [Rust러스트fishshell용-echo로-gitignore넣기](#rustfishshell용-echo로-gitignore넣기)
 - [python파이썬.gitignore](#pythongitignore)
 
 <hr>
