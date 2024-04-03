@@ -346,7 +346,7 @@ echo "/wasm-pack.log" >> .gitignore &&
 echo "dist/" >> .gitignore
 ```
 
-# Rust 그냥 넣기[[🔝]](#link)
+# Rust(.gitignore)그냥 넣기[[🔝]](#link)
 
 - [Rust러스트fishshell용-echo로-gitignore넣기](#rustfishshell용-echo로-gitignore넣기)
 
