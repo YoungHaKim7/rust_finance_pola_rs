@@ -129,7 +129,7 @@ $ evcxr_jupyter --install
 
 # python(.gitignore)[[🔝]](#link)
 
-```
+```gitignore
 # A collection of useful .gitignore templates 
 # https://github.com/github/gitignore\xa
 # General
@@ -301,7 +301,7 @@ cython_debug/
 
 # (Rust)fishshell용 echo로 gitignore넣기[[🔝]](#link)
 
-```
+```gitignore
 echo "# Result" >> README.md &&
 echo "" >> README.md &&
 echo "```bash" >> README.md &&
@@ -350,7 +350,7 @@ echo "dist/" >> .gitignore
 
 - [Rust러스트fishshell용-echo로-gitignore넣기](#rustfishshell용-echo로-gitignore넣기)
 
-```
+```gitignore
 # A collection of useful .gitignore templates 
 # https://github.com/github/gitignore
 
