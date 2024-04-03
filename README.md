@@ -297,7 +297,7 @@ cython_debug/
 #.idea/
 ```
 
-# fishshell용 echo로 gitignore넣기[[🔝]](#link)
+# (Rust)fishshell용 echo로 gitignore넣기[[🔝]](#link)
 
 ```
 echo "# Result" >> README.md &&
