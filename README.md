@@ -4,7 +4,7 @@
 
 # link
 
-- [](test)
+- [python파이썬.gitignore](#pythongitignore)
 
 <hr>
 
@@ -125,7 +125,7 @@ $ evcxr_jupyter --install
 
 <hr>
 
-# python(.gitignore)
+# python(.gitignore)[[🔝]](#link)
 
 ```
 # A collection of useful .gitignore templates 
