@@ -136,6 +136,8 @@ $ evcxr_jupyter --install
 .DS_Store
 dir/otherdir/.DS_Store
 .ruff_cache/
+.venv/
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
