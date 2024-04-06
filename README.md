@@ -7,6 +7,7 @@
 - [Rust러스트fishshell용-echo로-gitignore넣기](#rustfishshell용-echo로-gitignore넣기)
   - [Rust(.gitignore)복사해서 넣기](#rustgitignore그냥-넣기)
 - [python파이썬.gitignore](#pythongitignore)
+- [Mojo정리함(&MAX)](https://github.com/YoungHaKim7/Modular_Mojo_AI_Dev)
 
 <hr>
 
