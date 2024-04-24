@@ -128,11 +128,11 @@ $ evcxr_jupyter --install
 
 <hr>
 
-# python(.gitignore)[[🔝]](#link)
+# (.py)python(.gitignore)[[🔝]](#link)
 
 ```gitignore
 # A collection of useful .gitignore templates 
-# https://github.com/github/gitignore\xa
+# https://github.com/github/gitignore
 # General
 .DS_Store
 dir/otherdir/.DS_Store
